@@ -1,3 +1,24 @@
 body {
-    color: blue;
+    font-family: georgia;
+    background-image: url("../olivia_app/grass.jpg");
+}
+
+.header {
+    background-color: rgb(73, 80, 95);
+    text-align: center;
+}
+
+.about-me {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    opacity: .5;
+}
+
+.title {
+    font-weight: bold;
+}
+
+h1 {
+    color: azure;
 }
